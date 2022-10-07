@@ -26,7 +26,8 @@ This project was developed with the following technologies:
 <br>
 # Reddit-Clone
 Discord Site CLONE!
-<img width="1404"  src="/Users/momo/Downloads/Projectsammlung2022/Reddit_tool/reddit4/src/img/reddit.png">
+
+![reddit](https://user-images.githubusercontent.com/13085793/194540646-233c9e06-e56b-40a7-b194-a01c494c064a.png)
 
 ## Contributing
 
