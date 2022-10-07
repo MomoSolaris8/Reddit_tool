@@ -1,0 +1,27 @@
+.container{
+    
+    width: 35%;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 0 1rem 1rem;
+    border-radius: 0.2rem;
+    border: 1px solid #ccc;
+}
+
+.title_container, .link_container{
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+}
+
+.title_container>input, .link_container>input{
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border-radius: 0.2rem;
+    border: 1px solid #ccc;
+}
+
+.submit_btn{
+    display: block;
+    margin: 0.7rem auto;
+}
