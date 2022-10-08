@@ -10,20 +10,14 @@
 ## Introduction
 This project was developed with the following technologies:
 
-- [Html]
-- [Css]
-- [JavaScript]
-- [Angular]
-- [Springboot]
-- [Swagger OpenAI]
-- [MySQL]
+
 
 #### Tech Stack
 
 
 -   Frontend : Angular, Typescript, HTML5, CSS3, Bootstrap
 
--   Backend : Spring boot, Java
+-   Backend : Spring boot, Java, Swagger OpenAI
 
 -   Cloud Service Providers : Microsoft Azure, Digital Ocean
 
