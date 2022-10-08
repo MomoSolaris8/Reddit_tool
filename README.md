@@ -18,6 +18,18 @@ This project was developed with the following technologies:
 - [Swagger OpenAI]
 - [MySQL]
 
+#### Tech Stack
+
+
+-   Frontend : Angular, Typescript, HTML5, CSS3, Bootstrap
+
+-   Backend : Spring boot, Java
+
+-   Cloud Service Providers : Microsoft Azure, Digital Ocean
+
+-   Database : Azure MySQL
+
+-   Hosting Service Provider : Netlify
 <br>
 <br>
 
