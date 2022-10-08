@@ -24,8 +24,7 @@ This project was developed with the following technologies:
 ## Screenshots
 
 <br>
-# Reddit-Clone
-Discord Site CLONE!
+# Reddit-Clone Site CLONE!
 
 ![reddit](https://user-images.githubusercontent.com/13085793/194540646-233c9e06-e56b-40a7-b194-a01c494c064a.png)
 
