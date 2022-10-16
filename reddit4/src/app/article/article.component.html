@@ -1,0 +1,19 @@
+<div class="container">
+    <div class="points">
+        <div>{{article.votes}}</div>
+        <div>points</div>
+    </div>
+    
+    <div class="details">
+    <div>
+        <a href=""> angular</a>
+        <div>{{article.link}}</div>
+      </div>
+
+    <div class="vote">
+        <div (click)="vote_up">upvote</div>
+        <div (click)="vote_down">downvote</div>
+    </div>
+
+  </div>
+</div>
