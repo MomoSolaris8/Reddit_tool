@@ -1,3 +1,4 @@
+import { MasterService } from './../Service/master.service';
 import { Component, OnInit } from '@angular/core';
 export interface PeriodicElement {
   name: string;
@@ -25,10 +26,21 @@ const ELEMENT_DATA: PeriodicElement[] = [
 })
 export class DataTableComponent implements OnInit {
 
-  displayedColumns: string[] = ['position', 'name', 'weight', 'symbol'];
+  displayedColumns: string[] = ['name', 'email', 'phone'];
   dataSource = ELEMENT_DATA;
+  empdata: any;
 
+  constructor(private service:MasterService){
+
+  }
   ngOnInit(): void {
+    throw new Error('Method not implemented.');
+  }
+
+  GetAll(){
+    this.service.GetEmployee().subscribe(result=>{
+     this.empdata= result;
+    });
   }
 
 }
