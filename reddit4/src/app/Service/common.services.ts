@@ -22,6 +22,15 @@ export class CommonService {
             }));
         
     }
+
+    // async await
+
+     /*
+     const promiseData = this.commonservice.promiseData();
+   
+      promiseData.then((data) => {
+        console.log('promise momo using asynchron await'+data);
+    */
     // rexjs , observable
 
     rexjsData(){
@@ -34,4 +43,11 @@ export class CommonService {
       
     }));
     }
+
+    /*
+  const rexjsData = this.commonservice.rexjsData();
+  rexjsData.subscribe((data) => {
+    console.log('rexjs momo using asynchron await'+data);
+
+    */
 }
